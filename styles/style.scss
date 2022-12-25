@@ -82,6 +82,7 @@ section#works{
     p{
         line-height: 28px;
         font-weight: 300;
+        margin-bottom: 3rem;
     }
     .link{
         color: var(--pink);
@@ -161,6 +162,9 @@ section#works{
         left: 0;
         background: inherit;
         border-radius: inherit;
+    }
+    button{
+        margin: 3rem auto;
     }
 }
 
