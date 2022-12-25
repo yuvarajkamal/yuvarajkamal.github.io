@@ -82,7 +82,7 @@ section#works{
     p{
         line-height: 28px;
         font-weight: 300;
-        margin-bottom: 3rem;
+        margin-bottom: 3rem !important;
     }
     .link{
         color: var(--pink);
@@ -164,7 +164,7 @@ section#works{
         border-radius: inherit;
     }
     button{
-        margin: 3rem auto;
+        margin: 3rem auto !important;
     }
 }
 
